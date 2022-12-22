@@ -32,6 +32,7 @@ Check out fritzing file for more information.
 2. Flex sensor <a name="2" href="https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide?_ga=2.13438583.1502922294.1671452785-154993728.1671452785" target="_blank">Hookup Guide</a> 
 3. TFT LCD Display <a name="3" href="https://www.youtube.com/watch?v=rq5yPJbX_uk" target="_blank">Tutorial Video</a>  
 4. <a name="4">Haptic Feedback using LilyPad Vibe Board</a>
+5. https://junkiyoshi.com/2019/10/page/5/
 ## 5. Memo / Trial & Error
 - Set to ESP32 Dev Module in IDE.
 - Button on right side of the microusb port should be pressed when uploading code. Press the other button to reboot after uploading.
