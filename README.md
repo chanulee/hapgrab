@@ -1,5 +1,6 @@
-# Alpha: Wearable interface for Sunny Day
+# HapGrab: Interface for Grab-and-move 3D interacetion and haptic feedback
 ## 1. Description
+https://vimeo.com/783565862
 ## 2. Features
 - Bluetooth Serial (Send and receive data) [[1]](#1)
 - Get and calculate flex sensor angle value [[2]](#2)
