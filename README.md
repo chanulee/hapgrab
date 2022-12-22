@@ -1,12 +1,14 @@
-# HapGrab: Interface for Grab-and-move 3D interacetion and haptic feedback
+# HapGrab
 ## 1. Description
-https://vimeo.com/783565862
+- Interface for Grab-and-move 3D interacetion and haptic feedback
+- https://vimeo.com/783565862
 ## 2. Features
 - Bluetooth Serial (Send and receive data) [[1]](#1)
 - Get and calculate flex sensor angle value [[2]](#2)
 - LCD display control [[3]](#3)
 - 6DoF Acc/Gryo Sensor
 - Haptic feedback [[4]](#4)
+- 3D Generative art on openFrameworks
 ## 3. Specimen
 ### 3-1. Hardware
 Check out fritzing file for more information.
