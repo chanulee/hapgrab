@@ -46,3 +46,5 @@ Check out fritzing file for more information.
 Physical Computing, Fall 2022     
 Advisor Prof. Sangwook Lee  
 Dept. of Art & Technology, Sogang University
+  
+Hapgrab is built upon wearable interface [alpha](https://github.com/chanulee/alpha), which was funded by [National Research Foundation Korea](https://www.nrf.re.kr/eng/index) as University Innovation program, 2022
