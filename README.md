@@ -1,7 +1,9 @@
 # HapGrab
 ## 1. Description
+![Demo Gif](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e7b8a2b5-0df9-4f0c-88be-426a93814a0d.gif?ClientID=vimeo-core-prod&Date=1671954016&Signature=fe06f929ae3c2d25bf72e7fc472b54ce7dbd1c75)
+![Demo Gif 2](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/22a3e30b-2522-436b-9fc9-66449bc0d7e8.gif?ClientID=vimeo-core-prod&Date=1671954204&Signature=3846d5d5ca744750d53c82f5a46b2181102cd9aa)
 - Interface for Grab-and-move 3D interacetion and haptic feedback
-- https://vimeo.com/783565862
+- [Video Demo](https://vimeo.com/784200640)
 ## 2. Features
 - Bluetooth Serial (Send and receive data) [[1]](#1)
 - Get and calculate flex sensor angle value [[2]](#2)
@@ -12,7 +14,7 @@
 ## 3. Specimen
 ### 3-1. Hardware
 Check out fritzing file for more information.
-- ESP32 Dev Module (3.3V)
+- ESP32 Dev Module (runs on 3.3V)
 - ILI9341 TFT LCD Display
 - Flex Sensor
 - Qwiic 6DoF LSM6DSO
@@ -40,6 +42,7 @@ Check out fritzing file for more information.
 - Quit openFrameworks app (ofApp) that gets serial data before uploading data to ESP32.
 - Haptic feedback of LilyPad Vibe Board feels a little bit weak on wrist. But still stronger than Qwiic Haptic Driver DA7280.
 - [Qwiic 6DoF Gyro/Acc LSM6DSO library](https://learn.sparkfun.com/tutorials/qwiic-6dof-lsm6dso-breakout-hookup-guide) and [Qwiic Haptic Driver DA7280 library](https://learn.sparkfun.com/tutorials/qwiic-haptic-driver-da7280-hookup-guide?_ga=2.22013947.1502922294.1671452785-154993728.1671452785) crashes on arduino ide    
------
-Physical Computing 2022-2    
-Advisor Prof. Sangwook Lee
+---
+Physical Computing, Fall 2022     
+Advisor Prof. Sangwook Lee  
+Dept. of Art & Technology, Sogang University
